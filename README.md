@@ -17,8 +17,8 @@ This is a Telegram bot that allows users to upload images and videos to selected
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/telegram-bot.git
-    cd telegram-bot
+    git clone https://github.com/did4510/telebot
+    cd telebot
     ```
 
 2. Install the dependencies:
